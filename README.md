@@ -13,6 +13,6 @@ This is a project completed for my Marketing Research class, in which I helped e
 * Reccomneded that the restaurant fill their days of the week that don't have events, with deals that offer tangible savings on drinks.
 
 ## Survey
-A link to the published survey can be found [here](https://fsu.qualtrics.com/jfe/form/SV_b9nJh2FZImkzTLw)
+A link to a preview of the published survey can be found [here](https://fsu.yul1.qualtrics.com/jfe/preview/previewId/4722b649-5bbc-4d56-bd0c-f7f3b483525e/SV_b9nJh2FZImkzTLw?Q_CHL=preview&Q_SurveyVersionID=current)
 
 A link to the response data of the survey used for the analysis can be found [here](file:///Users/paytonmolen/Downloads/Default%20Report.pdf)
