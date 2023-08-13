@@ -18,15 +18,4 @@ A link to a preview of the published survey can be found [here](https://fsu.yul1
 A link to the response data of the survey used for the analysis can be found [here](https://github.com/pcm19b/Project-Survey-Analytics/blob/7a86967523f02d6b71adee755c2a2d345462df76/Default%20Report.pdf)
 
 ## Analysis and Report
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>PDF Example by Object Tag</title>
-  </head>
-  <body>
-    <h1>PDF Example by Object Tag</h1>
-    <object data="https://github.com/pcm19b/Project-Survey-Analytics/blob/a53c3b4b336af7983b66a87bbd08c07b67412382/MAR%204613%20Paper.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="https://github.com/pcm19b/Project-Survey-Analytics/blob/a53c3b4b336af7983b66a87bbd08c07b67412382/MAR%204613%20Paper.pdf">Download</a> instead.</p>
-    </object>
-  </body>
-</html>
+A link to the final report including analyses and reccomendations can be found [here](https://github.com/pcm19b/Project-Survey-Analytics/blob/a53c3b4b336af7983b66a87bbd08c07b67412382/MAR%204613%20Paper.pdf)
