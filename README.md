@@ -16,3 +16,17 @@ This is a project completed for my Marketing Research class, in which I helped e
 A link to a preview of the published survey can be found [here](https://fsu.yul1.qualtrics.com/jfe/preview/previewId/4722b649-5bbc-4d56-bd0c-f7f3b483525e/SV_b9nJh2FZImkzTLw?Q_CHL=preview&Q_SurveyVersionID=current)
 
 A link to the response data of the survey used for the analysis can be found [here](https://github.com/pcm19b/Project-Survey-Analytics/blob/7a86967523f02d6b71adee755c2a2d345462df76/Default%20Report.pdf)
+
+## Analysis and Report
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>PDF Example by Object Tag</title>
+  </head>
+  <body>
+    <h1>PDF Example by Object Tag</h1>
+    <object data="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="/uploads/media/default/0001/01/540cb75550adf33f281f29132dddd14fded85bfc.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
