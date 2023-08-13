@@ -23,4 +23,7 @@ A link to a preview of the published survey can be found [here](https://fsu.yul1
 A link to the response data of the survey used for the analysis can be found [here](https://github.com/pcm19b/Project-Survey-Analytics/blob/7a86967523f02d6b71adee755c2a2d345462df76/Default%20Report.pdf)
 
 ## Analysis and Report
+
+![Alt Text](https://github.com/pcm19b/Project-Survey-Analytics/blob/21514a9ab1574cd2377521a414108d1fb9d8080c/Screen%20Shot%202023-08-13%20at%202.37.38%20PM.png)
+
 A link to the final report including analyses and reccomendations can be found [here](https://github.com/pcm19b/Project-Survey-Analytics/blob/19bc9d2141cb17c29774c8ee247b98123bd689ca/Survey%20Analysis%20and%20Report.pdf)
