@@ -13,11 +13,9 @@ This is a project completed for my Marketing Research class, in which I helped e
 * Reccomneded that the restaurant fill their days of the week that don't have events, with deals that offer tangible savings on drinks.
 
 ## Survey
-![Image](Screen Shot 2023-08-13 at 10.09.47 AM.png)
 A link to a preview of the published survey can be found [here](https://fsu.yul1.qualtrics.com/jfe/preview/previewId/4722b649-5bbc-4d56-bd0c-f7f3b483525e/SV_b9nJh2FZImkzTLw?Q_CHL=preview&Q_SurveyVersionID=current)
 
-![Image]([Screen Shot 2023-08-13 at 10.10.15 AM.png](https://github.com/pcm19b/Project-Survey-Analytics/blob/cfd04f09e9bfe808dac88b191604a403e542f21d/Screen%20Shot%202023-08-13%20at%2010.10.15%20AM.png))
 A link to the response data of the survey used for the analysis can be found [here](https://github.com/pcm19b/Project-Survey-Analytics/blob/7a86967523f02d6b71adee755c2a2d345462df76/Default%20Report.pdf)
 
 ## Analysis and Report
-A link to the final report including analyses and reccomendations can be found [here](https://github.com/pcm19b/Project-Survey-Analytics/blob/a53c3b4b336af7983b66a87bbd08c07b67412382/MAR%204613%20Paper.pdf)
+A link to the final report including analyses and reccomendations can be found [here](https://github.com/pcm19b/Project-Survey-Analytics/blob/19bc9d2141cb17c29774c8ee247b98123bd689ca/Survey%20Analysis%20and%20Report.pdf)
