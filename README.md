@@ -15,4 +15,4 @@ This is a project completed for my Marketing Research class, in which I helped e
 ## Survey
 A link to a preview of the published survey can be found [here](https://fsu.yul1.qualtrics.com/jfe/preview/previewId/4722b649-5bbc-4d56-bd0c-f7f3b483525e/SV_b9nJh2FZImkzTLw?Q_CHL=preview&Q_SurveyVersionID=current)
 
-A link to the response data of the survey used for the analysis can be found [here](Default Report.pdf)
+A link to the response data of the survey used for the analysis can be found [here](https://github.com/pcm19b/Project-Survey-Analytics/blob/7a86967523f02d6b71adee755c2a2d345462df76/Default%20Report.pdf)
