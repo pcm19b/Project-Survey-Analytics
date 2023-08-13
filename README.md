@@ -16,7 +16,7 @@ This is a project completed for my Marketing Research class, in which I helped e
 ![Image](Screen Shot 2023-08-13 at 10.09.47 AM.png)
 A link to a preview of the published survey can be found [here](https://fsu.yul1.qualtrics.com/jfe/preview/previewId/4722b649-5bbc-4d56-bd0c-f7f3b483525e/SV_b9nJh2FZImkzTLw?Q_CHL=preview&Q_SurveyVersionID=current)
 
-![Image](Screen Shot 2023-08-13 at 10.10.15 AM.png)
+![Image]([Screen Shot 2023-08-13 at 10.10.15 AM.png](https://github.com/pcm19b/Project-Survey-Analytics/blob/cfd04f09e9bfe808dac88b191604a403e542f21d/Screen%20Shot%202023-08-13%20at%2010.10.15%20AM.png))
 A link to the response data of the survey used for the analysis can be found [here](https://github.com/pcm19b/Project-Survey-Analytics/blob/7a86967523f02d6b71adee755c2a2d345462df76/Default%20Report.pdf)
 
 ## Analysis and Report
