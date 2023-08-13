@@ -11,3 +11,8 @@ This is a project completed for my Marketing Research class, in which I helped e
   * Customers preferred deals or events that provided tangible savings on drinks, rather than on food
   * Customers valued the overall experience and atmosphere as the least important
 * Reccomneded that the restaurant fill their days of the week that don't have events, with deals that offer tangible savings on drinks.
+
+## Survey
+A link to the published survey can be found [here](https://fsu.qualtrics.com/jfe/form/SV_b9nJh2FZImkzTLw)
+
+A link to the response data of the survey used for the analysis can be found [here](file:///Users/paytonmolen/Downloads/Default%20Report.pdf)
