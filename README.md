@@ -25,8 +25,8 @@ A link to the response data of the survey used for the analysis can be found [he
   </head>
   <body>
     <h1>PDF Example by Object Tag</h1>
-    <object data="MAR 4613 Paper.pdf" type="application/pdf" width="100%" height="500px">
-      <p>Unable to display PDF file. <a href="MAR 4613 Paper.pdf">Download</a> instead.</p>
+    <object data="https://github.com/pcm19b/Project-Survey-Analytics/blob/a53c3b4b336af7983b66a87bbd08c07b67412382/MAR%204613%20Paper.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="https://github.com/pcm19b/Project-Survey-Analytics/blob/a53c3b4b336af7983b66a87bbd08c07b67412382/MAR%204613%20Paper.pdf">Download</a> instead.</p>
     </object>
   </body>
 </html>
